@@ -9,3 +9,14 @@ I will document my data cleaning efforts in a separate file but I wanted to shar
 
 I also wanted to share just how simple Pythoin can be if one lets it...
 read more about it [here](https://tripkendall.com/normalize-a-pandas-dataframe-column/)
+
+
+#### [Sentiment Analysis]()
+Back before Elon Musk moved everything behind the login and increased the price of the developer program I scraped a bunch of tweets from Twitter.  I wanted to do some sentiment analysis on tweets about Trump. The script and data here show how simple that can be with Python.
+This example uses the VADER sentiment analysis.
+
+**The last run finished with:**
+```
+- neg:    25338
+- pos:    22057
+```
