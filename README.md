@@ -11,7 +11,7 @@ I also wanted to share just how simple Pythoin can be if one lets it...
 read more about it [here](https://tripkendall.com/normalize-a-pandas-dataframe-column/)
 
 
-#### [Sentiment Analysis]()
+#### [Sentiment Analysis](https://github.com/TripKendall/python_examples/tree/main/sentimentAnalyzer)
 Back before Elon Musk moved everything behind the login and increased the price of the developer program I scraped a bunch of tweets from Twitter.  I wanted to do some sentiment analysis on tweets about Trump. The script and data here show how simple that can be with Python.
 This example uses the VADER sentiment analysis.
 
@@ -20,5 +20,5 @@ This example uses the VADER sentiment analysis.
 - neg:    25338
 - pos:    22057
 ```
-### [Multi-File DataFrame]()
+### [Multi-File DataFrame](https://github.com/TripKendall/python_examples/tree/main/multiFileDataFrame)
 Have a bunch of json files that you want to combine into a single DataFrame?  This is how I did it, maybe it will help you too.
