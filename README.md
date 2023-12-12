@@ -23,10 +23,10 @@ This example uses the VADER sentiment analysis.
 #### [Multi-File DataFrame](https://github.com/TripKendall/python_examples/tree/main/multiFileDataFrame)
 Have a bunch of json files that you want to combine into a single DataFrame?  This is how I did it, it's literally only a dozen lines of Python.  I've included a subset of the data files and the script I used to combine them.  I also included a Jupyter Notebook that shows how to do it in a notebook.
 
-#### [Add Keyword](#)
+#### [Add Keyword](https://github.com/TripKendall/python_examples/tree/main/addKeyword)
 I had a bunch of json files that I needed to tag with the keyword that was used to generate them which I got from the file name. 
 
-#### [Compare JSON Files](#)
+#### [Compare JSON Files](https://github.com/TripKendall/python_examples/tree/main/compareJsonFiles)
 I have many directories of json files that I need to insure contain unique information.
 Processing in the cloud can get expensive. This script compares two json files and deletes the duplicates.
 
