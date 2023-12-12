@@ -7,7 +7,7 @@ As I have had occasion to (re)use it more and more, I have found that I have had
 #### [Normalize a Pandas DataFrame Column](https://github.com/TripKendall/python_examples/tree/main/normalizePandasCol)
 I will document my data cleaning efforts in a separate file but I wanted to share this little bit of code that I wrote to normalize a column in a Pandas DataFrame.  There are many ways to accomplish anything in Python but this is what I came up with.  
 
-I also wanted to share just how simple Pythoin can be if one lets it...
+I also wanted to share just how simple Python can be if one lets it...
 read more about it [here](https://tripkendall.com/normalize-a-pandas-dataframe-column/)
 
 
@@ -21,4 +21,4 @@ This example uses the VADER sentiment analysis.
 - pos:    22057
 ```
 ### [Multi-File DataFrame](https://github.com/TripKendall/python_examples/tree/main/multiFileDataFrame)
-Have a bunch of json files that you want to combine into a single DataFrame?  This is how I did it, maybe it will help you too.
+Have a bunch of json files that you want to combine into a single DataFrame?  This is how I did it, it's literally only a dozen lines of Python.  I've included the data files and the script I used to combine them.  I also included a Jupyter Notebook that shows how to do it in a notebook.
