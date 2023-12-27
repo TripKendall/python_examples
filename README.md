@@ -32,5 +32,5 @@ Processing in the cloud can get expensive. This script compares two json files a
 
 Be careful with this one, it deletes files and can take a long time to run on directories with lots of files.  I often run it with nice 20 to keep it from bogging down my system.
 
-#### [Seaborn Chart](https://github.com/TripKendall/python_examples/)
+#### [Seaborn Chart](https://github.com/TripKendall/python_examples/tree/main/seabornChart)
 SeaBorn is a great library for creating charts.   This is a simple example of how I like to create a chart with SeaBorn - this uses a subset of the data that I have been tracking for over six years now.
