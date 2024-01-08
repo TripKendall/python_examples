@@ -1,7 +1,5 @@
 import pandas as pd
-import numpy as np
 
-# df = pd.read_csv('web_links.csv')
 df = pd.read_csv('links.csv')
 
 # This just makes the "scores" a manageable size to normalize
